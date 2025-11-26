@@ -53,6 +53,8 @@ Conference on Sensing, Measurement & Data Analytics in the era of Artificial Int
 
 
 - [8] Di Y, <strong>Wang F</strong>, Zhai Z, et al. PhyGNN: Physics guided graph neural network for complex industrial power system modeling[J]. Mechanical Systems and Signal Processing, 2025, 240: 113380.
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0888327025010817)
+[[Code]](https://github.com/DiYi1999/PhyGNN)
 
 - [7] Yu Q, <strong>Wang F</strong>, Zhai Z, et al. Multi-time scale feature extraction for early prediction of battery RUL and knee point using a hybrid deep learning approach[J]. Journal of Energy Storage, 2025, 117: 116024. 
 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S2352152X25007376)
@@ -71,12 +73,14 @@ based on graph filtering[J]. Expert Systems with Applications, 2024: 124348.
 [[Code]](https://github.com/DiYi1999/ISTGAD)
 
 - [3] Xu J, Zhou X, <strong>Wang F</strong>, et al. A Weighted Feature Fusion-Based SOH Assessment for Lithium-Ion Batteries[C]. 2024 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2024: 1-6.
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10920620)
 
 - [2] Zhai Z, Di Y, <strong>Wang F</strong>, etal. Adversarially-trained Graph Convolutional Recurrent Autoencoder for Spacecraft Anomaly Detection with Missing Data[C]. 2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2022: 1-7. 
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10058285)
 
 - [1] Zhai Z, Wen J, <strong>Wang F</strong>, et al. Remaining Useful Life Prediction of Aero-Engine Based on Transformer with Tendency Retainment[C]. 2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence
 (ICSMD). IEEE, 2022: 1-6. 
-
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10058242)
 
 
 
