@@ -1,6 +1,7 @@
 
 
-[![wang-fujin](https://img.shields.io/badge/wang-fujin-github-blue?logo=github)](https://github.com/wang-fujin)
+[![wang-fujin](https://img.shields.io/badge/{wangfuj
+}-{github}-blue?logo=github)](https://github.com/wang-fujin)
 
 西安交通大学博士
 
