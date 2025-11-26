@@ -6,11 +6,11 @@
 
 #### Contact
 
-Email: wfj1014[at]stu.xjtu.edu.cn\
+Email: wfj1014[at]stu.xjtu.edu.cn \
 
 
 #### Education
-2016.09 - 2020.06: 西安交通大学，本科\
+2016.09 - 2020.06: 西安交通大学，本科 \
 2020.09 - 2025.09: 西安交通大学，博士
 
 #### Research Interests
