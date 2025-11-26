@@ -1,4 +1,4 @@
-#### First & corresponding author
+### First & corresponding author
 
 
 - <strong>Wang F</strong>, Zhai Z, Zhao Z, et al. Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis[J]. <span style="color: #25eb9cff; font-weight: 600;">Nature Communications</span>, 2024, 15(1): 4332. [[Paper]](https://www.nature.com/articles/s41467-024-48779-z) [[Code]](https://github.com/wang-fujin/PINN4SOH) (<span style="color: #eb2525ff; font-weight: 600;">ESI、Hot Paper, Top 25 of 2024 </span>)
@@ -50,12 +50,11 @@ Personalized Federated Transfer Learning Based on Global Synthetic Data for Batt
 Journal of Energy Storage, 2025, 105: 114542. 
 
 
-- Zhai Z, Di Y, <strong>Wang F</strong>, etal. Adversarially-trained Graph Convolutional Recurrent Autoencoder for Spacecraft Anomaly Detection with Missing Data[C]//2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2022: 1-7. 
+- Zhai Z, Di Y, <strong>Wang F</strong>, etal. Adversarially-trained Graph Convolutional Recurrent Autoencoder for Spacecraft Anomaly Detection with Missing Data[C]. 2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2022: 1-7. 
 
-- Zhai Z, Wen J, <strong>Wang F</strong>, et al. Remaining Useful Life Prediction of Aero-Engine Based on Transformer with Tendency Retainment[C]//2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence
+- Zhai Z, Wen J, <strong>Wang F</strong>, et al. Remaining Useful Life Prediction of Aero-Engine Based on Transformer with Tendency Retainment[C]. 2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence
 (ICSMD). IEEE, 2022: 1-6. 
 
-- Xu J, Zhou X, <strong>Wang F</strong>, et al. A Weighted Feature Fusion-Based SOH Assessment for Lithium-Ion Batteries[C]//2024 Interna-
-tional Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2024: 1-6.
+- Xu J, Zhou X, <strong>Wang F</strong>, et al. A Weighted Feature Fusion-Based SOH Assessment for Lithium-Ion Batteries[C]. 2024 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2024: 1-6.
 
 
