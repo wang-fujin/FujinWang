@@ -43,11 +43,14 @@ based on graph filtering[J]. Expert Systems with Applications, 2024: 124348.
 
 - Yu Q, <strong>Wang F</strong>, Zhai Z, et al. Multi-time scale feature extraction for early prediction of battery RUL and knee point using a hybrid deep learning approach[J]. Journal of Energy Storage, 2025, 117: 116024. 
 
+- Yuan H, <strong>Wang F</strong>, Tang J, et al.
+Personalized Federated Transfer Learning Based on Global Synthetic Data for Battery State of Health Estimation[J]. IEEE Internet of Things Journal. 2025. 
+
 - Zhao Z, Liu B, <strong>Wang F</strong>, et al. Exploration of imbalanced regression in state-of-health estimation of lithium-ion batteries[J].
 Journal of Energy Storage, 2025, 105: 114542. 
 
 
-- ZhaiZ, DiY, <strong>Wang F</strong>, etal. Adversarially-trained Graph Convolutional Recurrent Autoencoder for Spacecraft Anomaly Detection with Missing Data[C]//2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2022: 1-7. 
+- Zhai Z, Di Y, <strong>Wang F</strong>, etal. Adversarially-trained Graph Convolutional Recurrent Autoencoder for Spacecraft Anomaly Detection with Missing Data[C]//2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2022: 1-7. 
 
 - Zhai Z, Wen J, <strong>Wang F</strong>, et al. Remaining Useful Life Prediction of Aero-Engine Based on Transformer with Tendency Retainment[C]//2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence
 (ICSMD). IEEE, 2022: 1-6. 
