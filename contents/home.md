@@ -8,6 +8,9 @@
 
 Email: wfj1014@stu.xjtu.edu.cn 
 
+Google Scholar: [Link](https://scholar.google.com/citations?user=ueD0a1gAAAAJ&hl=en&oi=ao)
+
+ResearchGate: [Link](https://www.researchgate.net/profile/Fujin-Wang)
 
 #### Education
 2016.09 - 2020.06: 西安交通大学，本科 \
