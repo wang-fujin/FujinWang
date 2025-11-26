@@ -24,6 +24,7 @@ vol. 72, no. 9, pp. 9748-9757, Sept. 2025. [[Paper]](https://ieeexplore.ieee.org
 
 - <strong>Wang F</strong>, Zhai Z, Liu B, et al. Open access dataset, code library and benchmarking deep learning approaches for state-of-health estimation of lithium-ion batteries[J]. <span style="color: #25eb9cff; font-weight: 600;">Journal of Energy Storage</span>, 2024, 77: 109884. 
 [[Paper]](https://doi.org/10.1016/j.est.2023.109884) 
+[[Code]](https://github.com/wang-fujin/SOHbenchmark)
 
 
 - <strong>Wang F</strong>, Zhai Z, Zhao Z, et al. Remaining useful life prediction of lithium-ion battery based on cycle-consistency learning[C]. <span style="color: #25eb9cff; font-weight: 600;">2021 International
