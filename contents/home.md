@@ -6,7 +6,7 @@
 
 #### Contact
 
-Email: wfj1014[at]stu.xjtu.edu.cn \
+Email: wfj1014@stu.xjtu.edu.cn 
 
 
 #### Education
