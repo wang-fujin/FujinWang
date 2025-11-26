@@ -48,28 +48,35 @@ Conference on Sensing, Measurement & Data Analytics in the era of Artificial Int
 
 
 
+
 ### Co-Works
 
 
-- Di Y, <strong>Wang F</strong>, Zhao Z, et al. An interpretable graph neural network for real-world satellite power system anomaly detection
-based on graph filtering[J]. Expert Systems with Applications, 2024: 124348.
+- [8] Di Y, <strong>Wang F</strong>, Zhai Z, et al. PhyGNN: Physics guided graph neural network for complex industrial power system modeling[J]. Mechanical Systems and Signal Processing, 2025, 240: 113380.
 
-- Di Y, <strong>Wang F</strong>, Zhai Z, et al. PhyGNN: Physics guided graph neural network for complex industrial power system modeling[J]. Mechanical Systems and Signal Processing, 2025, 240: 113380.
+- [7] Yu Q, <strong>Wang F</strong>, Zhai Z, et al. Multi-time scale feature extraction for early prediction of battery RUL and knee point using a hybrid deep learning approach[J]. Journal of Energy Storage, 2025, 117: 116024. 
+[[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S2352152X25007376)
 
-- Yu Q, <strong>Wang F</strong>, Zhai Z, et al. Multi-time scale feature extraction for early prediction of battery RUL and knee point using a hybrid deep learning approach[J]. Journal of Energy Storage, 2025, 117: 116024. 
 
-- Yuan H, <strong>Wang F</strong>, Tang J, et al.
+- [6] Yuan H, <strong>Wang F</strong>, Tang J, et al.
 Personalized Federated Transfer Learning Based on Global Synthetic Data for Battery State of Health Estimation[J]. IEEE Internet of Things Journal. 2025. 
 
-- Zhao Z, Liu B, <strong>Wang F</strong>, et al. Exploration of imbalanced regression in state-of-health estimation of lithium-ion batteries[J].
-Journal of Energy Storage, 2025, 105: 114542. 
+- [5] Zhao Z, Liu B, <strong>Wang F</strong>, et al. Exploration of imbalanced regression in state-of-health estimation of lithium-ion batteries[J]. Journal of Energy Storage, 2025, 105: 114542. 
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S2352152X24041288?via%3Dihub)
 
 
-- Zhai Z, Di Y, <strong>Wang F</strong>, etal. Adversarially-trained Graph Convolutional Recurrent Autoencoder for Spacecraft Anomaly Detection with Missing Data[C]. 2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2022: 1-7. 
+- [4] Di Y, <strong>Wang F</strong>, Zhao Z, et al. An interpretable graph neural network for real-world satellite power system anomaly detection
+based on graph filtering[J]. Expert Systems with Applications, 2024: 124348.
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417424012144)
+[[Code]](https://github.com/DiYi1999/ISTGAD)
 
-- Zhai Z, Wen J, <strong>Wang F</strong>, et al. Remaining Useful Life Prediction of Aero-Engine Based on Transformer with Tendency Retainment[C]. 2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence
+- [3] Xu J, Zhou X, <strong>Wang F</strong>, et al. A Weighted Feature Fusion-Based SOH Assessment for Lithium-Ion Batteries[C]. 2024 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2024: 1-6.
+
+- [2] Zhai Z, Di Y, <strong>Wang F</strong>, etal. Adversarially-trained Graph Convolutional Recurrent Autoencoder for Spacecraft Anomaly Detection with Missing Data[C]. 2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2022: 1-7. 
+
+- [1] Zhai Z, Wen J, <strong>Wang F</strong>, et al. Remaining Useful Life Prediction of Aero-Engine Based on Transformer with Tendency Retainment[C]. 2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence
 (ICSMD). IEEE, 2022: 1-6. 
 
-- Xu J, Zhou X, <strong>Wang F</strong>, et al. A Weighted Feature Fusion-Based SOH Assessment for Lithium-Ion Batteries[C]. 2024 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD). IEEE, 2024: 1-6.
+
 
 
