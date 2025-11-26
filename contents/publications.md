@@ -34,3 +34,6 @@ Conference on Sensing, Measurement & Data Analytics in the era of Artificial Int
 
 #### Co-Works
 
+
+- Di Y, <strong>Wang F</strong>, Zhao Z, et al. An interpretable graph neural network for real-world satellite power system anomaly detection
+based on graph filtering[J]. Expert Systems with Applications, 2024: 124348.
