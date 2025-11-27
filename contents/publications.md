@@ -62,6 +62,7 @@ Conference on Sensing, Measurement & Data Analytics in the era of Artificial Int
 
 - [6]. Yuan H, <strong>Wang F</strong>, Tang J, et al.
 Personalized Federated Transfer Learning Based on Global Synthetic Data for Battery State of Health Estimation[J]. IEEE Internet of Things Journal. 2025. 
+[[Paper]](https://ieeexplore.ieee.org/document/11045159)
 
 - [5]. Zhao Z, Liu B, <strong>Wang F</strong>, et al. Exploration of imbalanced regression in state-of-health estimation of lithium-ion batteries[J]. Journal of Energy Storage, 2025, 105: 114542. 
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S2352152X24041288?via%3Dihub)

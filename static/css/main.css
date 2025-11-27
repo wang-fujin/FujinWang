@@ -109,4 +109,22 @@ section .main-body{
     }
 }
 
+/* Section-specific background colors -- 可在 :root 中修改这些变量来自定义每个区块的背景 */
+:root{
+    --section-bg-home: linear-gradient(45deg, #ffffff, #f7fbff);
+    --section-bg-publications: linear-gradient(45deg, #f7fbff, #eef6ff);
+    --section-bg-projects: linear-gradient(45deg, #fff7f0, #fff3ea);
+    --section-bg-patent: linear-gradient(45deg, #f6fff6, #eefef0);
+    --section-bg-awards: linear-gradient(45deg, #fffaf0, #fff5e6);
+}
+
+section#home{ background: var(--section-bg-home) !important; }
+section#publications{ background: var(--section-bg-publications) !important; }
+section#projects{ background: var(--section-bg-projects) !important; }
+section#patent{ background: var(--section-bg-patent) !important; }
+section#awards{ background: var(--section-bg-awards) !important; }
+
+/* 可选：为每个节增加内边距顶部以避免与固定导航重叠 */
+section { padding-top: 3rem; padding-bottom: 3rem; }
+
 
