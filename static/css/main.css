@@ -127,4 +127,32 @@ section#awards{ background: var(--section-bg-awards) !important; }
 /* 可选：为每个节增加内边距顶部以避免与固定导航重叠 */
 section { padding-top: 3rem; padding-bottom: 3rem; }
 
+/* --------------------------------------------------
+     Section-specific typography: line-height & spacing
+     可根据需要调整这些数值以获得最佳可读性。
+     -------------------------------------------------- */
+/* 基础：为每个区块的 main-body 单独设置行高 */
+section#home .main-body { line-height: 1.9; }
+section#publications .main-body { line-height: 1.6; }
+section#projects .main-body { line-height: 1.85; }
+section#patent .main-body { line-height: 1.5; }
+section#awards .main-body { line-height: 1.6; }
+
+/* 段落与标题间距 */
+section .main-body p { margin-bottom: 0.9rem; }
+section .main-body h3, section .main-body h4 { margin-top: 1rem; margin-bottom: 0.6rem; }
+
+/* 列表项间距：使论文/专利/项目列表更易于阅读 */
+section .main-body ul,
+section .main-body ol { margin-top: 0.6rem; margin-bottom: 0.8rem; padding-left: 1.2rem; }
+section .main-body li { margin-bottom: 0.45rem; }
+
+/* 小屏自适应：在小屏幕时稍微收紧间距 */
+@media screen and (max-width: 767px) {
+    section .main-body { line-height: 1.6; }
+    section .main-body p { margin-bottom: 0.7rem; }
+    section .main-body li { margin-bottom: 0.35rem; }
+}
+
+
 
