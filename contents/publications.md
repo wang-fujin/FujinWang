@@ -1,5 +1,13 @@
 ### First & corresponding author
 
+#### 2026
+
+- [11]. <strong>Wang F</strong>, Liu W, Sun M, et al. Merging physics and neural network: A promising tool for prognostics and health management[J]. <span style="color: #25eb9cff; font-weight: 600;">Engineering Applications of Artificial Intelligence</span>, 2026, 165: 113385.
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0952197625034165)
+[[Code1]](https://github.com/wang-fujin/BattNN)
+[[Code2]](https://github.com/wang-fujin/PINN4SOH)
+
+
 #### 2025
 
 - [10]. <strong>Wang F</strong>, Zhai Z, Di Y, et al. Physics-informed neural network for satellite battery degradation estimation based on an extreme segment data within 2 min[J]. <span style="color: #25eb9cff; font-weight: 600;">IEEE Transactions on Industrial Electronics</span>, 
