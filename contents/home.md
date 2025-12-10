@@ -34,7 +34,7 @@ PLOS ONE
 
 #### Contact
 
-Email: wfj1014@stu.xjtu.edu.cn 
+Email: wfj1014@stu.xjtu.edu.cn , wangfujin@kust.edu.cn
 
 Google Scholar: [Link](https://scholar.google.com/citations?user=ueD0a1gAAAAJ&hl=en&oi=ao)
 
