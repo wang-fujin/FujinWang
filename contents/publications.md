@@ -65,7 +65,7 @@ Conference on Sensing, Measurement & Data Analytics in the era of Artificial Int
 [[Code]](https://github.com/DiYi1999/PhyGNN)
 
 - [7]. Yu Q, <strong>Wang F</strong>, Zhai Z, et al. Multi-time scale feature extraction for early prediction of battery RUL and knee point using a hybrid deep learning approach[J]. Journal of Energy Storage, 2025, 117: 116024. 
-[[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S2352152X25007376)
+[[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S2352152X25007376) (<span style="color: #eb2525ff; font-weight: 600;">ESI 高被引 </span>)
 
 
 - [6]. Yuan H, <strong>Wang F</strong>, Tang J, et al.

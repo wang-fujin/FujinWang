@@ -7,7 +7,7 @@
 并在所内研究方向基础上拓展出了电池健康管理相关方向，目前该方向已成为所内的一个独立的研究方向。
 博士期间在 Nature Communications、IEEE Transactions on Neural Networks and Learning Systems 等顶级国际期刊发表论文19篇。其中发表的 Nature Communications 论文为西安交通大学航空发动机研究所内首篇，该论文被 Nature Communications 期刊评选为 Top 25 Chemistry and Materials Science Articles of 2024 (排名第 4)，受《麻省理工科技评论》邀请采访，被西安交通大学官网、
 《储能科学与技术》等数十个知名网站和公众号宣传报道，吸引多家国内的电池领先企业（如宁德时代、长安汽车电池、武汉蔚能电池资产有限公司、杭州经纬信息技术股份有限公司、浙江华电器材检测研究院有限公司、上海卫星工程研究所等）的关注并进行交流。
-Google 学术引用超 800 次，一作单篇最高引用 380 次。
+Google 学术引用超 900 次，一作单篇最高引用 400 次。
 研究成果得到姜培学院士、欧阳明高院士、Guerrero Josep M. 院士、Enrico Zio 院士等国内外多位院士、诺贝尔化学奖获得者 Stanley Whittingham 院士以及多位 IEEE、ASME 等会士的多次引用和积极评价。
 
 在学术任职方面，担任国际著名学术期刊
