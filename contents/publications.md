@@ -2,6 +2,10 @@
 
 #### 2026
 
+- [12]. Zhou X, Xu J, Sun Y, Yuan H, Feng M, <strong>Wang F*</strong>, Zhao Z. EIS-DADA: A transferable approach for state of charge estimation in lithium-ion batteries based on impedance spectroscopy[J]. <span style="color: #25eb9cff; font-weight: 600;">Journal of Energy Storage</span>, 2026, 154: 121188. 
+[[paper]](https://www.sciencedirect.com/science/article/pii/S2352152X26008522)
+
+
 - [11]. <strong>Wang F</strong>, Liu W, Sun M, et al. Merging physics and neural network: A promising tool for prognostics and health management[J]. <span style="color: #25eb9cff; font-weight: 600;">Engineering Applications of Artificial Intelligence</span>, 2026, 165: 113385.
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0952197625034165)
 [[Code1]](https://github.com/wang-fujin/BattNN)
