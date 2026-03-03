@@ -32,7 +32,7 @@ Signal, Image and Video Processing、
 International Journal of Electrochemical Science、
 Scientific Reports、
 PLOS ONE、
-Green Energy and Intelligent Transportation、
+Green Energy and Intelligent Transportation
 等期刊的审稿人。
 
 #### Contact
@@ -42,6 +42,8 @@ Email: wfj1014@stu.xjtu.edu.cn , wangfujin@kust.edu.cn
 Google Scholar: [Link](https://scholar.google.com/citations?user=ueD0a1gAAAAJ&hl=en&oi=ao)
 
 ResearchGate: [Link](https://www.researchgate.net/profile/Fujin-Wang)
+
+XJTU Battery Dataset: [link](https://wang-fujin.github.io/)
 
 #### Education
 
