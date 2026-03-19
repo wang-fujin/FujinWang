@@ -11,6 +11,7 @@
 研究成果得到姜培学院士、欧阳明高院士、Guerrero Josep M. 院士、Enrico Zio 院士等国内外多位院士、锂电池发明者及诺贝尔化学奖获得者 Stanley Whittingham 院士以及多位 IEEE、ASME 等会士的多次引用和积极评价。
 
 在学术任职方面，担任国际著名学术期刊
+Nature Communications、
 IEEE TNNLS、
 eTransportation、
 Neurocomputing、
@@ -21,7 +22,7 @@ Applied Energy、
 Energy、
 Mechanical Systems and Signal Processing、
 Journal of Energy Storage、
-Journal of Power Sources
+Journal of Power Sources、
 IEEE Transactions on Industrial Electronics、
 IEEE Transactions on Industrial Informatics、
 IEEE Transactions on Instrumentation and Measurement、
