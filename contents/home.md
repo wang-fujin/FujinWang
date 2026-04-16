@@ -2,12 +2,12 @@
 
 [![wang-fujin](https://img.shields.io/badge/wangfujin-github-blue?logo=github)](https://github.com/wang-fujin)
 
-2025年9月获得西安交通大学博士学位，昆明理工大学特聘教授、中国人工智能学会首届<strong>潜力清源学者</strong>。
+2025年9月获得西安交通大学博士学位，昆明理工大学<strong>特聘教授</strong>、中国人工智能学会首届<strong>潜力清源学者</strong>。
 博士期间研究方向为锂离子电池健康管理，由于项目需求，首次在航空发动机研究所内开展锂离子电池健康管理相关研究，
 并在所内研究方向基础上拓展出了电池健康管理相关方向，目前该方向已成为所内的一个独立的研究方向。
-在 Nature Communications、IEEE Transactions on Neural Networks and Learning Systems 等顶级国际期刊发表论文22篇（<strong>其中一作和通讯SCI论文10篇，中科院一区8篇，二区2篇，总影响因子103</strong>）。其中发表的 Nature Communications 论文为西安交通大学航空发动机研究所内首篇，该论文被 Nature Communications 期刊评选为 Top 25 Chemistry and Materials Science Articles of 2024 （排名第 4），受《麻省理工科技评论》邀请采访，被西安交通大学官网、
+在 <u>Nature Communications</u>、<u>IEEE Transactions on Neural Networks and Learning Systems</u> 等顶级国际期刊发表论文22篇（<strong>其中一作和通讯SCI论文10篇，中科院一区8篇，二区2篇，总影响因子103</strong>）。其中发表的 Nature Communications 论文为西安交通大学航空发动机研究所内首篇，该论文被 Nature Communications 期刊评选为 Top 25 Chemistry and Materials Science Articles of 2024 （排名第 4），受《麻省理工科技评论》邀请采访，被西安交通大学官网、
 《储能科学与技术》等数十个知名网站和公众号宣传报道，吸引多家国内的电池领先企业（如宁德时代、长安汽车电池、武汉蔚能电池资产有限公司、杭州经纬信息技术股份有限公司、浙江华电器材检测研究院有限公司、上海卫星工程研究所等）的关注并进行交流。
-论文发表至今，<strong>Google 学术引用超 1160 次，一作单篇最高引用超 620 次</strong>。
+论文发表至今，<strong>Google 学术引用超 1200 次，一作单篇最高引用超 640 次</strong>。
 研究成果得到锂电池发明者及诺贝尔化学奖获得者 Stanley Whittingham 院士、姜培学院士、欧阳明高院士、Guerrero Josep M. 院士、Enrico Zio 院士等国内外多位院士以及多位 IEEE、ASME 等会士的多次引用和积极评价。
 
 在学术任职方面，担任国际著名学术期刊

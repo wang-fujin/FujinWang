@@ -23,7 +23,7 @@ vol. 72, no. 9, pp. 9748-9757, Sept. 2025. [[Paper]](https://ieeexplore.ieee.org
 
 
 
-- [8]. <strong>Wang F</strong>, Zhai Z, Zhao Z, et al. Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis[J]. <span style="color: #25eb9cff; font-weight: 600;">Nature Communications</span>, 2024, 15(1): 4332. [[Paper]](https://www.nature.com/articles/s41467-024-48779-z) [[Code]](https://github.com/wang-fujin/PINN4SOH) (<span style="color: #eb2525ff; font-weight: 600;">ESI、Hot Paper, Top 25 of 2024 </span>)
+- [8]. <strong>Wang F</strong>, Zhai Z, Zhao Z, et al. Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis[J]. <span style="color: #25eb9cff; font-weight: 600;">Nature Communications</span>, 2024, 15(1): 4332. [[Paper]](https://www.nature.com/articles/s41467-024-48779-z) [[Code]](https://github.com/wang-fujin/PINN4SOH) (<span style="color: #eb2525ff; font-weight: 600;">ESI高被引、Hot Paper, Top 25 of 2024 </span>)
 
 - [7]. <strong>Wang F</strong>, Zhai Z, Liu B, et al. Open access dataset, code library and benchmarking deep learning approaches for state-of-health estimation of lithium-ion batteries[J]. <span style="color: #25eb9cff; font-weight: 600;">Journal of Energy Storage</span>, 2024, 77: 109884. 
 [[Paper]](https://doi.org/10.1016/j.est.2023.109884) 
