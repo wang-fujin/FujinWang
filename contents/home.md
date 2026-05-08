@@ -44,6 +44,8 @@ Google Scholar: [Link](https://scholar.google.com/citations?user=ueD0a1gAAAAJ&hl
 
 ResearchGate: [Link](https://www.researchgate.net/profile/Fujin-Wang)
 
+ORCiD: [Link](https://orcid.org/0000-0003-0236-3705)
+
 XJTU Battery Dataset: [link](https://wang-fujin.github.io/)
 
 #### Education
