@@ -1,6 +1,8 @@
 ### First & corresponding author
 
 #### 2026
+- [13]. Zhao Z, Feng M, Yu Q, Yuan H, <strong>Wang F*</strong>, Zhai Z. Towards trustworthy lithium-ion battery remaining useful life prediction with uncertainty quantification[J]. <span style="color: #25eb9cff; font-weight: 600;">Journal of Energy Storage</span>, 2026, 167: 122408.
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S2352152X26020724)
 
 - [12]. Zhou X, Xu J, Sun Y, Yuan H, Feng M, <strong>Wang F*</strong>, Zhao Z. EIS-DADA: A transferable approach for state of charge estimation in lithium-ion batteries based on impedance spectroscopy[J]. <span style="color: #25eb9cff; font-weight: 600;">Journal of Energy Storage</span>, 2026, 154: 121188. 
 [[paper]](https://www.sciencedirect.com/science/article/pii/S2352152X26008522)
@@ -62,6 +64,11 @@ Conference on Sensing, Measurement & Data Analytics in the era of Artificial Int
 ---
 
 ### Co-Works
+- [12]. Li W, Li T, <strong>Wang F</strong>, Liu T, Yan R. GFKAN: An interpretable graph Fourier Kolmogorov-Arnold network for multi-sensor signal fusion and machine fault diagnosis[J]. IEEE Transactions on Instrumentation and Measurement, 2026.
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/11510478)
+
+- [11]. Li T, He J, Liu T, <strong>Wang F</strong>, Zhao Z, Che Y. A novel Fourier-informed long short-term memory network for reliable state of health estimation of lithium-ion batteries with partial charging data[J]. Journal of Energy Storage, 2026, 154: 121177. 
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S2352152X26008418)
 
 - [10]. Di Y, <strong>Wang F</strong>, Zhai Z, et al. Beyond the Homophily Assumption: Mining Complex Correlations in Time Series via Graph Neural Network[J]. Pattern Recognition, 2026: 113388.
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003535)
