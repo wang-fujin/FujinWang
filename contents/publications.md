@@ -74,8 +74,9 @@ Conference on Sensing, Measurement & Data Analytics in the era of Artificial Int
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003535)
 [[Code]](https://github.com/DiYi1999/G3CN)
 
-- [9]. Li T, He J, Liu T, <strong>Wang F</strong>, et al. A novel Fourier-informed long short-term memory network for reliable state of health estimation of lithium-ion batteries with partial charging data[J]. Journal of Energy Storage, 2026, 154: 121177. 
-[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S2352152X26008418)
+- [9]. Di Y, Zhao Z, <strong>Wang F</strong>, et al. Empowering All-in-Loop Health Management of Spacecraft Power System in the Mega-Constellation Era via Human-AI Collaboration[J]. arXiv preprint arXiv:2601.12667, 2026. 
+[[Paper]](https://arxiv.org/abs/2601.12667)
+[[Code]](https://github.com/DiYi1999/SpaceHMchat)
 
 - [8]. Di Y, <strong>Wang F</strong>, Zhai Z, et al. PhyGNN: Physics guided graph neural network for complex industrial power system modeling[J]. Mechanical Systems and Signal Processing, 2025, 240: 113380.
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0888327025010817)
