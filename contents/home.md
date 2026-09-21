@@ -10,31 +10,7 @@
 论文发表至今，<strong>Google 学术引用超 1800 次，一作单篇最高引用超 1000 次</strong>。
 研究成果得到锂电池发明者及诺贝尔化学奖获得者 Stanley Whittingham 院士、姜培学院士、欧阳明高院士、张统一院士、Guerrero Josep M. 院士、Enrico Zio 院士、Richard D. Braatz院士等国内外多位院士以及多位 IEEE Fellow、ASME Fellow的多次引用和积极评价。
 
-在学术任职方面，担任国际著名学术期刊
-Nature Communications、
-IEEE TNNLS、
-eTransportation、
-Neurocomputing、
-Information Sciences、
-Reliability Engineering & System Safety、
-Engineering Applications of Artificial Intelligence、
-Applied Energy、
-Energy、
-Mechanical Systems and Signal Processing、
-Journal of Energy Storage、
-Journal of Power Sources、
-IEEE Transactions on Industrial Electronics、
-IEEE Transactions on Industrial Informatics、
-IEEE Transactions on Instrumentation and Measurement、
-IEEE Transactions on Reliability
-ISA Transactions、
-Chemical Engineering Journal Advances、
-Signal, Image and Video Processing、
-International Journal of Electrochemical Science、
-Scientific Reports、
-PLOS ONE、
-Green Energy and Intelligent Transportation
-等期刊的审稿人。
+
 
 #### Contact
 

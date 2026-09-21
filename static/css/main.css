@@ -116,6 +116,7 @@ section .main-body{
     --section-bg-projects: linear-gradient(45deg, #fff7f0, #fff3ea);
     --section-bg-patent: linear-gradient(45deg, #f6fff6, #eefef0);
     --section-bg-awards: linear-gradient(45deg, #fffaf0, #fff5e6);
+    --section-bg-service: linear-gradient(45deg, #f5f3ff, #eeebff);
 }
 
 section#home{ background: var(--section-bg-home) !important; }
@@ -123,6 +124,7 @@ section#publications{ background: var(--section-bg-publications) !important; }
 section#projects{ background: var(--section-bg-projects) !important; }
 section#patent{ background: var(--section-bg-patent) !important; }
 section#awards{ background: var(--section-bg-awards) !important; }
+section#service{ background: var(--section-bg-service) !important; }
 
 /* 可选：为每个节增加内边距顶部以避免与固定导航重叠 */
 section { padding-top: 3rem; padding-bottom: 3rem; }
@@ -137,6 +139,7 @@ section#publications .main-body { line-height: 1.6; }
 section#projects .main-body { line-height: 1.85; }
 section#patent .main-body { line-height: 1.5; }
 section#awards .main-body { line-height: 1.6; }
+section#service .main-body { line-height: 1.6; }
 
 /* 段落与标题间距 */
 section .main-body p { margin-bottom: 0.9rem; }
