@@ -12,6 +12,8 @@
 -->
 - Frontiers in Mechanical Engineering 期刊 “[Trustworthy and Generalizable Intelligent Diagnosis of Rotating Machinery under Complex Industrial Operating Conditions](https://www.frontiersin.org/research-topics/83684/trustworthy-and-generalizable-intelligent-diagnosis-of-rotating-machinery-under-complex-industrial-operating-conditions)”专题编辑（Topic Editor）, Deadline 26 January 2027
 
+- 2026 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence，Special Session Organizer："[Physics-informed and Data-driven Health Assessment for Complex Electromechanical Systems](https://icsmd2026.aconf.org/ssl.html#section1)"
+
 - 2026年9月-至今：Journal of Dynamics, Monitoring and Diagnostics 青年编委
 
 #### 期刊审稿人
